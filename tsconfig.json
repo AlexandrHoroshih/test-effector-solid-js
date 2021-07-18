@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "types": [
+      "solid-js",
+      "solid-js/dom"
+    ],
+    "target": "ESNext",
+    "strict": false,
+    "sourceMap": true,
+    "rootDir": "src",
+    "moduleResolution": "node",
+    "module": "ESNext",
+    "lib": [
+      "es6",
+      "dom"
+    ],
+    "jsxImportSource": "solid-js",
+    "jsx": "preserve",
+    "esModuleInterop": true,
+    "allowJs": true
+  }
+}
